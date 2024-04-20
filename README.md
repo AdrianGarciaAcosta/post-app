@@ -8,7 +8,7 @@ La idea es una aplicación que utilice distintos conceptos de AngularJS para cre
 - AngularJS: 1.8.2 -> Core
 - AngularRoute: 1.6.9 -> Enrutado Angular
 - Bootstrap: 3.3.7 -> Estilos
-- Http-Server: 14.1.1 -> Ejecución local, instalado como devDependence
+- Http-Server: 14.1.1 -> Ejecución local, instalado como devDependence (https://www.npmjs.com/package/http-server?activeTab=readme)
 - API: https://jsonplaceholder.typicode.com/
 
 ## Aplicación
