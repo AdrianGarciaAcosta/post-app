@@ -1,0 +1,36 @@
+﻿<div class="row">
+
+    <div class="col-xs-1"></div>
+    <div class="col-xs-10" style="background-color: #ffffff; padding: 15px; margin: 10px 0 10px 0;">
+
+        <form class="form-horizontal" ng-submit="savePost()">
+
+            <h2>{{title}}</h2>
+            <br />
+
+            <div class="form-group">
+                <label for="title" class="col-sm-2 control-label">Título</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="title" placeholder="título" ng-model="post.title"
+                        required>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="body" class="col-sm-2 control-label">Cuerpo</label>
+                <div class="col-sm-10">
+                    <textarea class="form-control" style="resize: none;" id="body" rows="4" placeholder="cuerpo"
+                        ng-model="post.body" required></textarea>
+                </div>
+            </div>
+
+            <hr />
+
+            <button type="submit" class="btn btn-success">guardar</button>
+            <button type="reset" class="btn btn-danger">borrar</button>
+            <a href="#/" class="btn btn-default"><strong>volver</strong></a>
+
+        </form>
+
+    </div>
+    <div class="col-xs-1"></div>
+</div>
