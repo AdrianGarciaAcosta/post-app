@@ -1,4 +1,4 @@
-# AngualarJS - Proyecto de mantenimiento de post y visualización de usuarios (recuperado de 2017)
+# AngularJS - Proyecto de mantenimiento de post y visualización de usuarios (recuperado de 2017)
 Proyecto enfocado al aprendizaje de conceptos de AngularJS, recuperado de 2017. Es una sencilla aplicación tipo CRUD.
 
 ## Enfoque
