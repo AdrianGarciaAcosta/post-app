@@ -1,5 +1,5 @@
-# AngularJS - Proyecto de mantenimiento de posts y visualización de usuarios (recuperado de 2017)
-Proyecto enfocado al aprendizaje de conceptos de AngularJS, recuperado de 2017. Es una sencilla aplicación tipo CRUD.
+# AngularJS - Proyecto de mantenimiento de posts y visualización de usuarios (recuperado de 2016)
+Proyecto enfocado al aprendizaje de conceptos de AngularJS, recuperado de 2016. Es una sencilla aplicación tipo CRUD.
 
 ## Enfoque
 La idea es una aplicación que utilice distintos conceptos de AngularJS para crear un CRUD sobre un API de post. Se hace uso también del API para ver los usuarios del sistema.
